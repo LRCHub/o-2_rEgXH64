@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "僕の心をつくってよ",
+  "base_artist": "平井　堅",
+  "createdAt": "2025-12-23T02:45:38.549796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕の心をつくってよ",
+      "artist": "平井 堅",
+      "has_synced": true,
+      "path": "select/01_僕の心をつくってよ_平井_堅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕の心をつくってよ",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/02_僕の心をつくってよ_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕の心をつくってよ",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/03_僕の心をつくってよ_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕の心をつくってよ",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/04_僕の心をつくってよ_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕の心をつくってよ - Bokunokokorowo Tsukutteyo",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/05_僕の心をつくってよ_-_Bokunokokorowo_Tsukutteyo_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕の心をつくってよ",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/06_僕の心をつくってよ_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "僕の心をつくってよ",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/07_僕の心をつくってよ_平井堅.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕の心をつくってよ",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_僕の心をつくってよ_平井_堅.txt"
+    }
+  ]
+}
